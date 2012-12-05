@@ -1,0 +1,23 @@
+{
+  "name": "kchain",
+  "version": "0.0.1",
+  "description": "OS X Key Chain API for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require should --reporter spec test/*"
+  },
+  "repository": "",
+  "keywords": [
+    "osx",
+    "keychain",
+    "mac",
+    "windows"
+  ],
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "author": "Christian Sullivan <cs@euforic.co>",
+  "license": "MIT",
+  "readme": "README.md"
+}
